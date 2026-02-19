@@ -735,3 +735,15 @@ function initReveal(){
 }
 
 // âââ LOADER âââââââââââââââââââââââââââââââââââââââ
+function hideLoader(){
+  const loader = document.getElementById('loader');
+  if(loader){ loader.classList.add('hide'); setTimeout(()=>{ loader.style.display='none'; }, 600); }
+}
+
+// Init
+initReveal();
+loadData();
+
+</script>
+</body>
+</html>
