@@ -3,10 +3,10 @@
     "name": "Syed Ansab Ali",
     "title": "Graphics Designer",
     "tagline": "Crafting visual identities that speak louder than words.",
-    "bio": "I am a passionate Graphics Designer from Karachi, Pakistan â specializing in brand identity, logo design, social media creatives, and print design. I turn ideas into visuals that leave a lasting impression.",
+    "bio": "I am a passionate Graphics Designer from Karachi, Pakistan Ã¢ÂÂ specializing in brand identity, logo design, social media creatives, and print design. I turn ideas into visuals that leave a lasting impression.",
     "email": "syedansab98@gmail.com",
     "phone": "+92 330 3966165",
-    "location": "Karachi, Pakistan",
+    "location": "Mirpurkhas, Pakistan",
     "social": {
       "linkedin": "https://www.linkedin.com/in/syed-ansab-a50031334/",
       "instagram": "",
@@ -18,25 +18,25 @@
   "services": [
     {
       "id": 1,
-      "icon": "â¦",
+      "icon": "Ã¢ÂÂ¦",
       "title": "Logo & Brand Identity",
       "desc": "Memorable logos and complete brand systems that define who you are and what you stand for."
     },
     {
       "id": 2,
-      "icon": "â",
+      "icon": "Ã¢ÂÂ",
       "title": "Social Media Design",
       "desc": "Eye-catching posts, stories, and banners that stop the scroll and grow your audience."
     },
     {
       "id": 3,
-      "icon": "â",
+      "icon": "Ã¢ÂÂ",
       "title": "Print Design",
-      "desc": "Business cards, flyers, brochures â print materials that make a lasting impression."
+      "desc": "Business cards, flyers, brochures Ã¢ÂÂ print materials that make a lasting impression."
     },
     {
       "id": 4,
-      "icon": "â",
+      "icon": "Ã¢ÂÂ",
       "title": "Poster & Banner Design",
       "desc": "Bold, creative visuals for events, campaigns, and promotions that demand attention."
     }
@@ -85,9 +85,9 @@
     }
   ],
   "stats": {
-    "projects": "100+",
-    "clients": "50+",
-    "experience": "5+",
+    "projects": "20+",
+    "clients": "10+",
+    "experience": "3+",
     "satisfaction": "100%"
   }
 }
